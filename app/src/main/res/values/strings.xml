@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Support Wheel of Fate</string>
+
+    <string name="add_next_employee_in_shift">Add Next Shift</string>
+
+    <string name="reset">Reset</string>
+
+    <string name="hurry">Hurry! </string>
+
+    <string name="no_employee_shift">No employee\'s shift added.\n Please press \'Add Next Shift\' to add. </string>
+
+
+</resources>
