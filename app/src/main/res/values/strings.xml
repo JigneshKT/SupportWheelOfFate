@@ -7,7 +7,7 @@
 
     <string name="hurry">Hurry! </string>
 
-    <string name="no_employee_shift">No employee\'s shift added.\n Please press \'Add Next Shift\' to add. </string>
+    <string name="no_employee_shift">No engineer\'s shift added.\n Please press \'Add Next Shift\' to add. </string>
 
 
 </resources>
